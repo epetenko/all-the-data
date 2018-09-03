@@ -5,7 +5,7 @@ You mentioned a couple times that you are interested in trying to learn some dat
 
 When it comes to learning data journalism, some people (like me) prefer to peruse through tutorials or read through blogs in their own time, and others (like, say, Steve) really need a project or an inspiration to get started on learning something. So you may find yourself putting this in your saved folder and just using it when the story comes up. That's okay. It's not like my learning has proceeded in a completely linear format, either. But fyi, a couple of these tutorials specifically start with an example dataset you could use or is similar to something you'd use.
 
-**Where to start:**
+## Where to start:
 
 These are some places that have multiple tutorials, meta-collections, and/or have big, broad scope:
 
@@ -24,20 +24,47 @@ These are the tutorials and tools I find myself going back to a lot or found ext
 First, the essential tools:
 
 -   Datawrapper, Plotly, Flourish, Carto: The out-of-the-box tools we use to create basic charts.
--   <http://ft-interactive.github.io/visual-vocabulary/> -- A helper guide to decide what chart to use. This is also helpful: <http://chartmaker.visualisingdata.com/>
--   Tabula: A so-easy-your-grandma-could-do-it way to turn pdfs into Excel spreadsheets.
--   Csvkit: <https://csvkit.readthedocs.io/en/1.0.3/tutorial.html> -- A command-line that lets you process a dataset too big for Excel. Yeah, it happens sometimes. Pretty easy to learn once you've grasped the
+-   [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/) -- A helper guide to decide what chart to use. This is also helpful: <http://chartmaker.visualisingdata.com/>
+-   [Tabula](tabula.technology): A so-easy-your-grandma-could-do-it way to turn pdfs into Excel spreadsheets.
+-   [Csvkit](https://csvkit.readthedocs.io/en/1.0.3/tutorial.html) -- A command-line that lets you process a dataset too big for Excel. Yeah, it happens sometimes. Pretty easy to learn once you've grasped the command line. Another, prettier tutorial from NICAR here: https://github.com/utdata/csvkit-nicar2018/blob/master/README.md
 -   QGIS: A free mapping application that allows for big processing of data materials. My fav tutorial is[here](http://paldhous.github.io/NICAR/2015/qgis.html).
 
-My favorite tutorials:
+## My favorite tutorials:
 
+### Excel
 -   <http://mjwebster.github.io/DataJ/> - Mary Jo Webster, a professor at U Minnesota, has the best Excel tutorials I've found on the interwebs. This page also has its own collection of data journalism links.
--   <http://lenagroeger.s3.amazonaws.com/cuny-fall15/index.html> -- Lena Groeger, another rather famous professor and ProPublica's top designer, has the complete course materials for her design for data journalism course here. Keep in mind that as a student you'd likely get Adobe for free or at a significant discount -- it's worth checking out. If you also have the chance to learn Photoshop/basic editing skills, that's another marketable skill to add to the resume.
--   <https://tswicegood.github.io/python-data-science-intro/> - Hardly the only introduction to Python for data science, but I found it very accessible for journalists specifically. It walks you through installing packages all the way to analyzing a real dataset of car accidents in New Jersey. Considering this is 1.7 million rows, Excel is useless for this kind of dataset. Carla also has a great tutorial: <https://github.com/CarlaAstudillo/pandas-nicar-2016/tree/6dfc8009e72ed866ba2cd19af66a9f2b515f8f72>
--   <http://duspviz.mit.edu/d3-workshop/> -- I would put this in the very advanced category, but when you're ready to learn D3, this is one of the best I've found -- especially for D3 version 4. If you want to scream in frustration over a block of code, learn D3. If you want to create incredible data visualizations that are impossible to do with out-of-the-box tools, learn D3.
--   [https://docs.google.com/document/d/1D82CY83sP42ik-f8GqCRQ6-E5Th3n-fcMmw0jkICA9Q/edit#](https://docs.google.com/document/d/1D82CY83sP42ik-f8GqCRQ6-E5Th3n-fcMmw0jkICA9Q/edit)- A basic introduction to SQL, another language used to deal with datasets too big or too complicated for Excel. If you want to use it without setting up MySQL or another database software, use data.world.
 
-**Joining the gang:**
+### Design
+-   <http://lenagroeger.s3.amazonaws.com/cuny-fall15/index.html> -- Lena Groeger, another rather famous professor and ProPublica's top designer, has the complete course materials for her design for data journalism course here. Keep in mind that as a student you'd likely get Adobe for free or at a significant discount -- it's worth checking out. If you also have the chance to learn Photoshop/basic editing skills, that's another marketable skill to add to the resume.
+- Also by Lena: [Making data gifs](https://github.com/lenagroeger/gifs)
+- [The front-end checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44) for designing websites
+- [SRCCON: Creating a style guide](https://github.com/zzolo/srccon-style-guide-discussion)
+
+### Python
+-  The complete, free [Python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) available online.
+- <https://tswicegood.github.io/python-data-science-intro/> - Hardly the only introduction to Python for data science, but I found it very accessible for journalists specifically. It walks you through installing packages all the way to analyzing a real dataset of car accidents in New Jersey. Considering this is 1.7 million rows, Excel is useless for this kind of dataset. 
+- Carla Astudillo also has a great tutorial: <https://github.com/CarlaAstudillo/pandas-nicar-2016/tree/6dfc8009e72ed866ba2cd19af66a9f2b515f8f72>
+- [Visualizing data in Python](https://github.com/robroc/nicar16-visualizing-data-python/blob/master/Visualizing%20data%20with%20Python%20-%20NICAR16.ipynb) 
+- [Data Wrangling in Agate](https://github.com/aepton/python-data-wrangling/blob/master/Data%20Wrangling%20with%20Python.ipynb) 
+- [Your first news app](https://first-news-app.readthedocs.io/en/latest/) with Flask
+- Scraping the web with Beautiful Soup https://www.dataquest.io/blog/web-scraping-tutorial-python/?utm_content=bufferc60f6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Visualization, JS and mapping
+- [Fundamentals of data visualization](https://serialmentor.com/dataviz/index.html), a complete, free online book
+- [D3 MIT visualization course](http://duspviz.mit.edu/d3-workshop/) -- I would put this in the very advanced category, but when you're ready to learn D3, this is one of the best I've found -- especially for D3 version 4. If you want to scream in frustration over a block of code, learn D3. If you want to create incredible data visualizations that are impossible to do with out-of-the-box tools, learn D3.
+- [Another popular D3 tutorial: Aligned Left](http://alignedleft.com/tutorials/d3/)
+- Intro to JS tutorial from NICAR: https://github.com/scottpham/JS2WorkshopNICAR2016
+- [An outline of mapping tools and tech](https://github.com/veltman/maps-nicar14)
+- [Intro to Leaflet](https://github.com/csessig86/leaflet-maps-intro)
+
+### Other/Misc.
+-   [Math for beginning reporting](https://github.com/mattwaite/MathForBeginningReporters/blob/master/math_and_data_for_beginning_reporting.md) 
+- [Scraping without programming](https://docs.google.com/presentation/d/1zMvbeYhZZmv_PBsXIJAvwjr9i2UujEgp76DjQOA_-u4/edit#slide=id.p)
+- [https://docs.google.com/document/d/1D82CY83sP42ik-f8GqCRQ6-E5Th3n-fcMmw0jkICA9Q/edit#](https://docs.google.com/document/d/1D82CY83sP42ik-f8GqCRQ6-E5Th3n-fcMmw0jkICA9Q/edit)- A basic introduction to SQL, another language used to deal with datasets too big or too complicated for Excel. If you want to use it without setting up MySQL or another database software, use data.world.
+- [Hitchhiker's Guide to data science, machine learning, R, and Python](https://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
+- [Getting started on machine learning for reporting](https://paldhous.github.io/NICAR/2018/machine-learning.html)
+
+## Joining the gang:
 
 One of the most important things to learn when learning data journalism is how to lean on others. Like me, sure, but even I don't know everything. Here are some of the best places to go to learn about the field, network, and see examples of good work:
 
