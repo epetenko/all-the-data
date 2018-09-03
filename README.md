@@ -9,12 +9,12 @@ When it comes to learning data journalism, some people (like me) prefer to perus
 
 These are some places that have multiple tutorials, meta-collections, and/or have big, broad scope:
 
--   <https://github.com/epetenko/datawrapper-tutorial> -- The aforementioned Excel/Datawrapper tutorial.
--   <http://sstirling.github.io/data-toolbox/build/subject/tutorials.html> -- Steve's repo of tutorials, mostly collected from NICAR sessions.
--   <http://blog.chryswu.com/2018/01/23/nicar18-slides-links-tutorials/> -- Chrys Wu's collection of NICAR presentations, she does this each year and this is the latest year. Honestly, with both of these I'd just skim through and see what looks interesting and can be knocked off in a couple hours.
+-   [My Excel/Datawrapper tutorial](https://github.com/epetenko/datawrapper-tutorial) -- The aforementioned Excel/Datawrapper tutorial.
+-   [Steve's data j repo](http://sstirling.github.io/data-toolbox/build/subject/tutorials.html) -- Steve's repo of tutorials, mostly collected from NICAR sessions.
+-   [NICAR 2018](http://blog.chryswu.com/2018/01/23/nicar18-slides-links-tutorials/) -- Chrys Wu's collection of NICAR presentations, she does this each year and this is the latest year. Honestly, with both of these I'd just skim through and see what looks interesting and can be knocked off in a couple hours.
 -   <https://github.com/dannguyen/journalism-syllabi> -- A sampling of data journalism course syllabi from a very prominent data journalism professor.
--   <http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html> -- A very helpful introduction to setting up your computer with packages and tools that we use, a lot. Requires admin access.
--   <https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/> - a guide to follow to figure out what you should learn and in what order if you want a general introduction to the field. It's far from the only free online course out there -- honestly, except for a few instances where you're having a hard time grasping something, you shouldn't need to pay up to learn data journalism. I never have, although I've heard that a structured coding course can help some people if they're stuck on programming.
+-   [How to set up your computer like a data journalist](http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html) -- A very helpful introduction to setting up your computer with packages and tools that we use, a lot. Requires admin access.
+-   [Learning interactive journalism, a one-semester syllabus](https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/) - a guide to follow to figure out what you should learn and in what order if you want a general introduction to the field. It's far from the only free online course out there -- honestly, except for a few instances where you're having a hard time grasping something, you shouldn't need to pay up to learn data journalism. I never have, although I've heard that a structured coding course can help some people if they're stuck on programming.
 -   Factfinder -- Not a tutorial, but your no. 1 source of data from the Census, which is the biggest, baddest dataset in the whole darn town.
 
 **Greatest hits:**
