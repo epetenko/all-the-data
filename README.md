@@ -42,6 +42,7 @@ First, the essential tools:
 
 ### Python
 -  The complete, free [Python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) available online.
+- [First Python Notebook](http://www.firstpythonnotebook.org/): an introduction to Jupyter, Pandas and Python data analysis using data from the California Civic Data Coalition.
 - <https://tswicegood.github.io/python-data-science-intro/> - Hardly the only introduction to Python for data science, but I found it very accessible for journalists specifically. It walks you through installing packages all the way to analyzing a real dataset of car accidents in New Jersey. Considering this is 1.7 million rows, Excel is useless for this kind of dataset. 
 - Carla Astudillo also has a great tutorial: <https://github.com/CarlaAstudillo/pandas-nicar-2016/tree/6dfc8009e72ed866ba2cd19af66a9f2b515f8f72>
 - [Visualizing data in Python](https://github.com/robroc/nicar16-visualizing-data-python/blob/master/Visualizing%20data%20with%20Python%20-%20NICAR16.ipynb) 
